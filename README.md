@@ -21,7 +21,15 @@ This repository contains a Python-based analysis of stock data for **PDD Holding
 
 ## 📊 Sample Output
 
-![PDD Stock Chart](https://static.vstarstatic.com/upload/mgt/upload/2024-05-30/vstar-PDD-Stock-Price-Prediction-2024-0530.png)
+![PDD Stock Chart](https://github.com/user-attachments/assets/087e0509-6d5c-4e81-8bb0-2ab327435741)
+![image](https://github.com/user-attachments/assets/16e7b0f0-13be-43b8-b3c6-b24c84ad37c9)
+![image](https://github.com/user-attachments/assets/9ae24026-6e40-4f2a-9a12-8a17c62254dc)
+![image](https://github.com/user-attachments/assets/e84e61d1-1371-4b7f-9b69-6462f27b9c02)
+![image](https://github.com/user-attachments/assets/b4ec114b-2d68-4a06-ad12-2a1e42df6a11)
+
+
+
+
 
 
 ## 📦 Requirements
